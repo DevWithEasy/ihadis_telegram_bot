@@ -20,7 +20,7 @@ class Command {
                 { text: "হাদিস খুঁজুন", callback_data: "hadis_find" }
               ],
               [
-                { text: "অ্যাপ চালু করুন", web_app: { url: 'https://alhadisbangla.netlify.app/' }},
+                { text: "অ্যাপ চালু করুন", web_app: { url: 'https://ihadis.vercel.app/' }},
                 { text: "ব্যবহার বিধি", callback_data: "bot_help" },
                 { text: "বট সম্পর্কে", callback_data: "bot_info" }
               ],
@@ -46,7 +46,7 @@ class Command {
                 { text: "হাদিস খুঁজুন", callback_data: "hadis_find" }
               ],
               [
-                { text: "অ্যাপ চালু করুন", web_app: { url: 'https://alhadisbangla.netlify.app/' }},
+                { text: "অ্যাপ চালু করুন", web_app: { url: 'https://ihadis.vercel.app/' }},
                 { text: "ব্যবহার বিধি", callback_data: "bot_help" },
                 { text: "বট সম্পর্কে", callback_data: "bot_info" }
               ]
